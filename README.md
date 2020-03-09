@@ -10,7 +10,7 @@
 
 打开 [新建 Issue 链接](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/new), 格式如下：
 
-<img src="https://gw.alicdn.com/tfs/TB1Y1ePxND1gK0jSZFyXXciOVXa-1508-1050.jpg" width="400" />
+<img src="https://gw.alicdn.com/tfs/TB1Y1ePxND1gK0jSZFyXXciOVXa-1508-1050.jpg" width="560" />
 
 
 
