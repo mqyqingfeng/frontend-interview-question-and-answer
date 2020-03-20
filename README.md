@@ -4,7 +4,7 @@
 
 21 届即将参加春招的同学，欢迎入群，说出你的题目，阿里前端攻城狮们帮你写答案
 
-<img src="https://gw.alicdn.com/tfs/TB1Kv4Yy.T1gK0jSZFhXXaAtVXa-542-720.jpg" width="260" />
+<img src="https://gw.alicdn.com/tfs/TB1mWX7y1T2gK0jSZFvXXXnFXXa-674-896.jpg" width="260" />
 
 ## 提问让我们回答
 
