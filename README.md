@@ -2,16 +2,15 @@
 
 ## 一件有意义的事情
 
-21 届即将参加春招的同学，欢迎入群，说出你的题目，阿里前端帮你写答案
+21 届即将参加春招的同学，欢迎入群，说出你的题目，阿里前端攻城狮们帮你写答案
 
-欢迎添加 mqyqingfeng 拉你入群
+<img src="https://gw.alicdn.com/tfs/TB1Kv4Yy.T1gK0jSZFhXXaAtVXa-542-720.jpg" width="260" />
 
 ## 提问让我们回答
 
 打开 [新建 Issue 链接](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/new), 格式如下：
 
 <img src="https://gw.alicdn.com/tfs/TB1Y1ePxND1gK0jSZFyXXciOVXa-1508-1050.jpg" width="560" />
-
 
 ## 汇总
 
@@ -20,22 +19,22 @@
 
 ## HTTP
 
-1. [高德一面] 一个 tcp 连接能发几个 http 请求？(https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/1)
+1. [[高德一面] 一个 tcp 连接能发几个 http 请求？](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/1)
 
 ## JavaScript
 
-1. [未知] 如何判断 0.1 + 0.2 与 0.3 相等？(https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/10)
-2. [字节跳动] common.js 和 es6中模块引入的区别？(https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/5)
+1. [[未知] 如何判断 0.1 + 0.2 与 0.3 相等？](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/10)
+2. [[字节跳动] common.js 和 es6中模块引入的区别？](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/5)
 
 ## 浏览器
 
-1. [未知] cookie、token 和 session 的区别 (https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/6)
-1. [头条] 如何选择图片格式，例如 png、webp (https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/7)
-2. [未知] 首屏和白屏时间如何计算？(https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/8)
+1. [[未知] cookie、token 和 session 的区别](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/6)
+1. [[头条] 如何选择图片格式，例如 png、webp](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/7)
+2. [[未知] 首屏和白屏时间如何计算](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/8)
 
 ## 小程序
 
-1. [未知] 小程序和 H5 有什么区别？(https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/9)
+1. [[未知] 小程序和 H5 有什么区别？](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/9)
 
 ## 移动端开发
 
@@ -43,8 +42,8 @@
 
 ## 框架
 
-1. [腾讯一面] Virtual Dom 的优势在哪里？(https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/3)
+1. [[腾讯一面] Virtual Dom 的优势在哪里？](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/3)
 
 ## V8
 
-1. [腾讯二面] 了解 v8 引擎吗，一段 js 代码如何执行的 (https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/12)
+1. [[腾讯二面] 了解 v8 引擎吗，一段 js 代码如何执行的](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/12)
