@@ -1,11 +1,5 @@
 # 前端校招面试题和答案
 
-## 一件有意义的事情
-
-21 届即将参加春招的同学，欢迎入群，说出你的题目，阿里前端攻城狮们帮你写答案
-
-<img src="https://gw.alicdn.com/tfs/TB1mWX7y1T2gK0jSZFvXXXnFXXa-674-896.jpg" width="260" />
-
 ## 提问让我们回答
 
 打开 [新建 Issue 链接](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/new), 格式如下：
