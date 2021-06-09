@@ -1,5 +1,9 @@
 # 前端校招面试题和答案
 
+## 说明
+
+后续由我个回答这些问题，不保证回答时间，你可以先提……
+
 ## 提问让我们回答
 
 打开 [新建 Issue 链接](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/new), 格式如下：
